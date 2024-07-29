@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">gif_searcher</string>
+    <string name="gif_title_text">Title</string>
+    <string name="gif_source_text">Source</string>
+    <string name="gif_username_text">Username</string>
+    <string name="gif_rating_text">Rating</string>
+    <string name="search_for_gif_text">Search for GIFs</string>
+    <string name="loading_error_text">Loading Error</string>
+    <string name="check_internet_text">It looks like you\'re not connected to the internet. Please check your connection.</string>
 </resources>
